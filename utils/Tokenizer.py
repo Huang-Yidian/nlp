@@ -21,9 +21,10 @@ def process_embedding(config):
         index += 1
     with open(config.diction,'w') as d:
         json.dump(json_dic,d)
+        print("Embedding save to json!")
     with open(config.indexing,'w') as i:
         json.dump(indexing,i)
-
+        print("Indexing save to json!")
 
 
 def concate_file(config: edict()):
