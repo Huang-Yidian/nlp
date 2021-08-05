@@ -1,1 +1,1 @@
-# run txt2bmes to  convert msra NER data to bmeso format
+# run txt2bmes.py to  convert msra NER data to bmeso format
