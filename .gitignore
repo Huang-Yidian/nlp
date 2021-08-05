@@ -132,3 +132,5 @@ dmypy.json
 *.vec
 =======
 >>>>>>> c83197cf4d0391ca6c353cd31f769447425fa6ea
+
+*.json
